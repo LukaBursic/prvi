@@ -1,2 +1,2 @@
 # prvi
-prvi repozitorij
+1. repozitorij
