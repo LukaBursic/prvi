@@ -7,10 +7,10 @@
 #endif
 
 int main(){    
-	int br;
-	scanf("%d",&br);
+	int x;
+	scanf("%d",&x);
 	for (int i = 15; i >= 0; i = i - 1)
-	printf("%d", br >> i & 0x1);
+	printf("%d", x >> i & 0x1);
 
 
      return 0;
